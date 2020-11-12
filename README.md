@@ -1,2 +1,2 @@
 # Blockchain-HW
-![Genesis Block](Blockchain HW Screenshots/GenesisBlock.png)
+![Image](Blockchain HW Screenshots/GenesisBlock.png)
