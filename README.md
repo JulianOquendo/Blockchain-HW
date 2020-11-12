@@ -1,2 +1,2 @@
 # Blockchain-HW
-![Genesis Block](julianoquendo/Desktop/GitHub/Blockchain-HW/Blockchain HW Screenshots/GenesisBlock)
+![Genesis Block](/Users/julianoquendo/Desktop/GenesisBlock.png)
