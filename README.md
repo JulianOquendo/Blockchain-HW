@@ -33,5 +33,5 @@
 ![Transaction Setup](SendTransaction.png)
 ![Success!](SuccessfulTransaction.png)
 
-#### Looks like badbunnynet is a massive success!
+### Looks like badbunnynet is a massive success!
 
