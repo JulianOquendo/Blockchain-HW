@@ -6,4 +6,6 @@
 ![Genesis](GenesisBlock.png)
 
 ### Step 2: Creating Both Nodes
-#### Without nodes, this netwrok would be pointless. In order to activate the blockchain, we had to create a minimum of two nodes. Following the prompts, we were able to create both 
+#### Without nodes, this networkk would be pointless. In order to activate the blockchain, we have to create a minimum of two nodes. Following the prompts, we were able to create Node 1 & Node 2: ./geth account new --datadir node1 
+
+![Node 1](CreatingNodes.png)
